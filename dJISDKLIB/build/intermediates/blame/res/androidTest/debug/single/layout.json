@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "M:\\AndroidSDK\\samples\\ImportSDKDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\log_dialog_view.xml",
+        "source": "M:\\AndroidSDK\\samples\\ImportSDKDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\log_dialog_view.xml"
+    },
+    {
+        "merged": "M:\\AndroidSDK\\samples\\ImportSDKDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_login.xml",
+        "source": "M:\\AndroidSDK\\samples\\ImportSDKDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_login.xml"
+    }
+]
